@@ -47,3 +47,6 @@ const myFunc= function(){
     
 }
 // myFunc()
+// *********************************************************************************************
+
+/* Stack Memory(Primitive) and Heap Memory(Non-Primitive) */
